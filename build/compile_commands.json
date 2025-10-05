@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/home/marcus/Documents/School/cmpm123/imgui-logger/build",
+  "command": "/usr/bin/g++  -Wall -Wextra -Wno-unused-parameter -Wno-ignored-qualifiers -g -std=gnu++20 -o CMakeFiles/demo.dir/Application.cpp.o -c /home/marcus/Documents/School/cmpm123/imgui-logger/Application.cpp",
+  "file": "/home/marcus/Documents/School/cmpm123/imgui-logger/Application.cpp",
+  "output": "/home/marcus/Documents/School/cmpm123/imgui-logger/build/CMakeFiles/demo.dir/Application.cpp.o"
+},
+{
+  "directory": "/home/marcus/Documents/School/cmpm123/imgui-logger/build",
+  "command": "/usr/bin/g++  -Wall -Wextra -Wno-unused-parameter -Wno-ignored-qualifiers -g -std=gnu++20 -o CMakeFiles/demo.dir/imgui/imgui_demo.cpp.o -c /home/marcus/Documents/School/cmpm123/imgui-logger/imgui/imgui_demo.cpp",
+  "file": "/home/marcus/Documents/School/cmpm123/imgui-logger/imgui/imgui_demo.cpp",
+  "output": "/home/marcus/Documents/School/cmpm123/imgui-logger/build/CMakeFiles/demo.dir/imgui/imgui_demo.cpp.o"
+},
+{
+  "directory": "/home/marcus/Documents/School/cmpm123/imgui-logger/build",
+  "command": "/usr/bin/g++  -Wall -Wextra -Wno-unused-parameter -Wno-ignored-qualifiers -g -std=gnu++20 -o CMakeFiles/demo.dir/imgui/imgui_draw.cpp.o -c /home/marcus/Documents/School/cmpm123/imgui-logger/imgui/imgui_draw.cpp",
+  "file": "/home/marcus/Documents/School/cmpm123/imgui-logger/imgui/imgui_draw.cpp",
+  "output": "/home/marcus/Documents/School/cmpm123/imgui-logger/build/CMakeFiles/demo.dir/imgui/imgui_draw.cpp.o"
+},
+{
+  "directory": "/home/marcus/Documents/School/cmpm123/imgui-logger/build",
+  "command": "/usr/bin/g++  -Wall -Wextra -Wno-unused-parameter -Wno-ignored-qualifiers -g -std=gnu++20 -o CMakeFiles/demo.dir/imgui/imgui_tables.cpp.o -c /home/marcus/Documents/School/cmpm123/imgui-logger/imgui/imgui_tables.cpp",
+  "file": "/home/marcus/Documents/School/cmpm123/imgui-logger/imgui/imgui_tables.cpp",
+  "output": "/home/marcus/Documents/School/cmpm123/imgui-logger/build/CMakeFiles/demo.dir/imgui/imgui_tables.cpp.o"
+},
+{
+  "directory": "/home/marcus/Documents/School/cmpm123/imgui-logger/build",
+  "command": "/usr/bin/g++  -Wall -Wextra -Wno-unused-parameter -Wno-ignored-qualifiers -g -std=gnu++20 -o CMakeFiles/demo.dir/imgui/imgui_widgets.cpp.o -c /home/marcus/Documents/School/cmpm123/imgui-logger/imgui/imgui_widgets.cpp",
+  "file": "/home/marcus/Documents/School/cmpm123/imgui-logger/imgui/imgui_widgets.cpp",
+  "output": "/home/marcus/Documents/School/cmpm123/imgui-logger/build/CMakeFiles/demo.dir/imgui/imgui_widgets.cpp.o"
+},
+{
+  "directory": "/home/marcus/Documents/School/cmpm123/imgui-logger/build",
+  "command": "/usr/bin/g++  -Wall -Wextra -Wno-unused-parameter -Wno-ignored-qualifiers -g -std=gnu++20 -o CMakeFiles/demo.dir/imgui/imgui.cpp.o -c /home/marcus/Documents/School/cmpm123/imgui-logger/imgui/imgui.cpp",
+  "file": "/home/marcus/Documents/School/cmpm123/imgui-logger/imgui/imgui.cpp",
+  "output": "/home/marcus/Documents/School/cmpm123/imgui-logger/build/CMakeFiles/demo.dir/imgui/imgui.cpp.o"
+},
+{
+  "directory": "/home/marcus/Documents/School/cmpm123/imgui-logger/build",
+  "command": "/usr/bin/g++  -Wall -Wextra -Wno-unused-parameter -Wno-ignored-qualifiers -g -std=gnu++20 -o CMakeFiles/demo.dir/imgui/imgui_impl_opengl3.cpp.o -c /home/marcus/Documents/School/cmpm123/imgui-logger/imgui/imgui_impl_opengl3.cpp",
+  "file": "/home/marcus/Documents/School/cmpm123/imgui-logger/imgui/imgui_impl_opengl3.cpp",
+  "output": "/home/marcus/Documents/School/cmpm123/imgui-logger/build/CMakeFiles/demo.dir/imgui/imgui_impl_opengl3.cpp.o"
+},
+{
+  "directory": "/home/marcus/Documents/School/cmpm123/imgui-logger/build",
+  "command": "/usr/bin/g++  -Wall -Wextra -Wno-unused-parameter -Wno-ignored-qualifiers -g -std=gnu++20 -o CMakeFiles/demo.dir/main_macos.cpp.o -c /home/marcus/Documents/School/cmpm123/imgui-logger/main_macos.cpp",
+  "file": "/home/marcus/Documents/School/cmpm123/imgui-logger/main_macos.cpp",
+  "output": "/home/marcus/Documents/School/cmpm123/imgui-logger/build/CMakeFiles/demo.dir/main_macos.cpp.o"
+},
+{
+  "directory": "/home/marcus/Documents/School/cmpm123/imgui-logger/build",
+  "command": "/usr/bin/g++  -Wall -Wextra -Wno-unused-parameter -Wno-ignored-qualifiers -g -std=gnu++20 -o CMakeFiles/demo.dir/imgui/imgui_impl_glfw.cpp.o -c /home/marcus/Documents/School/cmpm123/imgui-logger/imgui/imgui_impl_glfw.cpp",
+  "file": "/home/marcus/Documents/School/cmpm123/imgui-logger/imgui/imgui_impl_glfw.cpp",
+  "output": "/home/marcus/Documents/School/cmpm123/imgui-logger/build/CMakeFiles/demo.dir/imgui/imgui_impl_glfw.cpp.o"
+}
+]

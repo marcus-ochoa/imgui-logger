@@ -63,7 +63,9 @@ add_executable(demo Application.cpp
                 )
 
 if(MACOS OR LINUX)
-    target_link_libraries(demo ${OPENGL_gl_LIBRARY} glfw)
+    # Added "OpenGL" to the library list instead of the other path which resulted in a few undefined GL function references
+    target_link_libraries(demo OpenGL glfw) # NEW LINE
+    # target_link_libraries(demo ${OPENGL_gl_LIBRARY} glfw) # ORIGINAL LINE
 elseif(WINDOWS)
     # Windows: Link DirectX11 and required Windows libraries
     target_link_libraries(demo 

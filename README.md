@@ -1,14 +1,6 @@
-# imgui-starter
+# ImGUI Logger
+UCSC CMPM123 Logger Assignment
 
-Using the provided code provided here you have a base Dear IMGUI project for Windows and macOS. There is a basic CMakefile in this project that includes the necessary files to create an application that brings up just a basic screen.
+## Notes
+I spent most of the time with this assignment brushing up on C / C++ programming fundamentals since it has been a minute since I have used either language. I made a singleton with a vector of log structs which were printed out. I went with this approach because that is what was recommended in the discord discussion. Although I didn't ask questions myself, I found the discussion online and in class very helpful. I plan to ask more questions myself in the future now that I am a little more brushed up on my C / C++ programming (I still feel like I don't have as good of a grasp on the fundamentals as I would like however). Making a global service like a logger a singleton makes sense for accessibility and consistency. Making log structs also makes sense. Because I most recently coded in C rather than C++ I started out not using the standard string library and ended up not using it really. I found it annoying that as far as I could tell string formatting during runtime was still a little complicated with the string library so I just ended up using snprintf which may not be ideal. Overall I still need to get a better grasp of the C++ fundamentals, but I am happy to have gotten basic functionality here.
 
-You must add a logging system to this code that you will be using THROUGHOUT the quarter. This logging system should do two things.
-
-It should be able to log to a Dear IMGUI debug console
-It should also log its output to a file.
-
-For the submission, make a branch of this repo and submit a new GitHub URL
-
-## Changes
-
-Updated Cmake version to remove warning
